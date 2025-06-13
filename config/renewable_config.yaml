@@ -1,0 +1,80 @@
+# Renewable Energy PINN Configuration
+
+# Model Architecture
+model:
+  layers: [3, 32, 32, 32, 1]  # Input: [env_params], Output: [power_generation]
+  activation: "tanh"
+  learning_rate: 0.001
+  batch_size: 32
+
+# System Parameters
+system:
+  type: "solar"  # or "wind"
+  capacity: 100.0  # MW
+  location:
+    latitude: 40.7128
+    longitude: -74.0060
+  timezone: "UTC-5"
+
+# Solar System Parameters (if type is "solar")
+solar:
+  panel_efficiency: 0.20
+  temperature_coefficient: -0.004
+  optimal_temperature: 25.0
+  tracking: "fixed"  # or "single_axis" or "dual_axis"
+  tilt_angle: 30.0
+  azimuth_angle: 180.0
+
+# Wind System Parameters (if type is "wind")
+wind:
+  turbine_type: "onshore"
+  hub_height: 80.0
+  rotor_diameter: 90.0
+  rated_power: 2.0
+  cut_in_speed: 3.5
+  cut_out_speed: 25.0
+  rated_speed: 14.0
+
+# Training Parameters
+training:
+  epochs: 5000
+  physics_weight: 1.0
+  data_weight: 1.0
+  validation_split: 0.2
+  early_stopping_patience: 50
+
+# Data Parameters
+data:
+  input_features:
+    solar:
+      - solar_radiation
+      - temperature
+      - time_of_day
+    wind:
+      - wind_speed
+      - wind_direction
+      - air_density
+  output_features:
+    - power_generation
+  normalization: "minmax"  # or "standard"
+  time_resolution: "1h"  # or "15min" or "1d"
+
+# Environmental Parameters
+environmental:
+  solar:
+    radiation_limits:
+      min: 0.0
+      max: 1000.0  # W/m²
+    temperature_limits:
+      min: -20.0
+      max: 60.0  # °C
+  wind:
+    speed_limits:
+      min: 0.0
+      max: 30.0  # m/s
+    direction_limits:
+      min: 0.0
+      max: 360.0  # degrees
+    density_limits:
+      min: 1.0
+      max: 1.3  # kg/m³ 
