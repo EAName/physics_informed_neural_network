@@ -141,7 +141,7 @@ docker-compose run tests
 
 ## License
 
-No License.
+CC BY-NC-SA 4.0
 
 ## Citation
 
