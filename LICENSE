@@ -1,228 +1,192 @@
-Attribution-NonCommercial-ShareAlike 4.0 International
-=======================================================================
+# PolyForm Noncommercial License 1.0.0
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-Creative Commons Corporation ("Creative Commons") is not a law firm and
-does not provide legal services or legal advice. Distribution of
-Creative Commons public licenses does not create a lawyer-client or
-other relationship. Creative Commons makes its licenses and related
-information available on an "as-is" basis. Creative Commons gives no
-warranties regarding its licenses, any material licensed under their
-terms and conditions, or any related information. Creative Commons
-disclaims all liability for damages resulting from their use to the
-fullest extent possible.
+## Acceptance
+In order to get any license under these terms, you must agree to them as
+both strict obligations and conditions to all your licenses.
 
-Using Creative Commons Public Licenses
--------------------------------------
+## Copyright License
+The licensor grants you a copyright license for the software to do
+everything you might do with the software that would otherwise infringe
+the licensor's copyright in it for any permitted purpose. However, you
+may only distribute the software according to **Distribution License**
+and make changes or new works based on the software according to
+**Changes and New Works License**.
 
-Creative Commons public licenses provide a standard set of terms and
-conditions that creators and other rights holders may use to share
-original works of authorship and other material subject to copyright
-and certain other rights specified in the public license below. The
-following considerations are for informational purposes only, are not
-exhaustive, and do not form part of our licenses.
+## Distribution License
+The licensor grants you an additional copyright license to distribute
+copies of the software. Your license to distribute covers distributing
+the software with changes and new works permitted by **Changes and New
+Works License**.
 
-**Considerations for licensors**  
-Our public licenses are intended for use by those authorized to give
-the public permission to use material in ways otherwise restricted by
-copyright and certain other rights. Our licenses are irrevocable.
-Licensors should read and understand the terms and conditions of the
-license they choose before applying it. Licensors should also secure
-all rights necessary before applying our licenses so that the public
-can reuse the material as expected. Licensors should clearly mark any
-material not subject to the license. This includes other CC-licensed
-material, or material used under an exception or limitation to
-copyright.
+## Notices
+You must ensure that anyone who gets a copy of any part of the software
+from you also gets a copy of these terms or the URL for them above, as
+well as copies of any plain-text lines beginning with `Required Notice:`
+that the licensor provided with the software. For example:
 
-**Considerations for the public**  
-By using one of our public licenses, a licensor grants the public
-permission to use the licensed material under specified terms and
-conditions. If the licensor’s permission is not necessary for any
-reason —for example, because of any applicable exception or limitation
-to copyright—then that use is not regulated by the license. Our
-licenses grant only permissions under copyright and certain other
-rights that a licensor has authority to grant. Use of the licensed
-material may still be restricted for other reasons, including because
-others have copyright or other rights in the material. A licensor may
-make special requests, such as asking that all changes be marked or
-described. Although not required by our licenses, you are encouraged
-to respect those requests where reasonable.
+> Required Notice: Copyright Yoyodyne, Inc.
 
-=======================================================================
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-Public License
+## Changes and New Works License
+The licensor grants you an additional copyright license to make changes
+and new works based on the software for any permitted purpose.
 
-By exercising the Licensed Rights (defined below), You accept and agree
-to be bound by the terms and conditions of this Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International Public License
-("Public License"). To the extent this Public License may be
-interpreted as a contract, You are granted the Licensed Rights in
-consideration of Your acceptance of these terms and conditions, and
-the Licensor grants You such rights in consideration of benefits the
-Licensor receives from making the Licensed Material available under
-these terms and conditions.
+## Patent License
+The licensor grants you a patent license for the software that covers
+patent claims the licensor can license, or becomes able to license, that
+you would infringe by using the software.
 
-### Section 1 – Definitions.
+## Noncommercial Purposes
+Any noncommercial purpose is a permitted purpose.
 
-a. **Adapted Material** means material subject to Copyright and Similar
-Rights that is derived from or based upon the Licensed Material and in
-which the Licensed Material is translated, altered, arranged,
-transformed, or otherwise modified in a manner requiring permission
-under the Copyright and Similar Rights held by the Licensor. For
-purposes of this Public License, where the Licensed Material is a
-musical work, performance, or sound recording, Adapted Material is
-always produced where the Licensed Material is synched in timed
-relation with a moving image.
+## Personal Uses
+Personal use for research, experiment, and testing for the benefit of
+public knowledge, personal study, private entertainment, hobby projects,
+amateur pursuits, or religious observance, without any anticipated
+commercial application, is use for a permitted purpose.
 
-b. **Adapter's License** means the license You apply to Your Copyright
-and Similar Rights in Your contributions to Adapted Material in
-accordance with the terms and conditions of this Public License.
+## Noncommercial Organizations
+Use by any charitable organization, educational institution, public
+research organization, public safety or health organization,
+environmental protection organization, or government institution is use
+for a permitted purpose regardless of the source of funding or
+obligations resulting from the funding.
 
-c. **BY-NC-SA Compatible License** means a license listed at
-<https://creativecommons.org/compatiblelicenses>, approved by Creative
-Commons as essentially the equivalent of this Public License.
+## Fair Use
+You may have “fair use” rights for the software under the law. These
+terms do not limit them.
 
-d. **Copyright and Similar Rights** means copyright and/or similar
-rights closely related to copyright including, without limitation,
-performance, broadcast, sound recording, and Sui Generis Database
-Rights, without regard to how the rights are labeled or categorized.
-For purposes of this Public License, the rights specified in Section
-2(b)(1)-(2) are not Copyright and Similar Rights.
+## No Other Rights
+These terms do not allow you to sublicense or transfer any of your
+licenses to anyone else, or prevent the licensor from granting licenses
+to anyone else. These terms do not imply any other licenses.
 
-e. **Effective Technological Measures** means those measures that, in
-the absence of proper authority, may not be circumvented under laws
-fulfilling obligations under Article 11 of the WIPO Copyright Treaty
-adopted on December 20, 1996, and/or similar international agreements.
+## Patent Defense
+If you make any written claim that the software infringes or contributes
+to infringement of any patent, your patent license for the software
+granted under these terms ends immediately. If your company makes such a
+claim, your patent license ends immediately for work on behalf of your
+company.
 
-f. **Exceptions and Limitations** means fair use, fair dealing, and/or
-any other exception or limitation to Copyright and Similar Rights that
-applies to Your use of the Licensed Material.
+## Violations
+The first time you are notified in writing that you have violated any of
+these terms, or done anything with the software not covered by your
+licenses, your licenses can nonetheless continue if you come into full
+compliance with these terms, and take practical steps to correct past
+violations, within 32 days of receiving notice. Otherwise, all your
+licenses end immediately.
 
-g. **License Elements** means the license attributes listed in the
-name of a Creative Commons Public License. The License Elements of
-this Public License are Attribution, NonCommercial, and ShareAlike.
+## No Liability
+**As far as the law allows, the software comes as-is, without any
+warranty or condition, and the licensor will not be liable to you for
+any damages arising out of these terms or the use or nature of the
+software, under any kind of legal claim.**
 
-h. **Licensed Material** means the artistic or literary work,
-database, or other material to which the Licensor applied this Public
-License.
+## Definitions
+The **licensor** is the individual or entity offering these terms, and
+the **software** is the software the licensor makes available under
+these terms. **You** refers to the individual or entity agreeing to
+these terms. **Your company** is any legal entity, sole proprietorship,
+or other kind of organization that you work for, plus all organizations
+that have control over, are under the control of, or are under common
+control with that organization. **Control** means ownership of
+substantially all the assets of an entity, or the power to direct its
+management and policies by vote, contract, or otherwise. Control can be
+direct or indirect. **Your licenses** are all the licenses granted to
+you for the software under these terms. **Use** means anything you do
+with the software requiring one of your licenses.
 
-i. **Licensed Rights** means the rights granted to You subject to the
-terms and conditions of this Public License, which are limited to all
-Copyright and Similar Rights that apply to Your use of the Licensed
-Material and that the Licensor has authority to license.
 
-j. **Licensor** means the individual(s) or entity(ies) granting rights
-under this Public License.
+Parallel LLC Commercial License v1.0
+====================================
 
-k. **NonCommercial** means not primarily intended for or directed
-towards commercial advantage or monetary compensation. For purposes of
-this Public License, the exchange of the Licensed Material for other
-material subject to Copyright and Similar Rights by digital file-sharing
-or similar means is NonCommercial provided there is no payment of
-monetary compensation in connection with the exchange.
+IMPORTANT—READ CAREFULLY.  This Commercial License (“Agreement”) is a
+legal contract between Parallel LLC (“Licensor”) and the licensee
+identified in the Order Form or invoice (“Licensee”).  By installing,
+copying, accessing, or otherwise using the Software, Licensee agrees to
+be bound by this Agreement.
 
-l. **Share** means to provide material to the public by any means or
-process that requires permission under the Licensed Rights, such as
-reproduction, public display, public performance, distribution,
-dissemination, communication, or importation, and to make material
-available to the public including in ways that members of the public
-may access the material from a place and at a time individually chosen
-by them.
+1.  Definitions
+    1.1 “Software” means the source code, object code, scripts, models,
+         and all accompanying documentation found in this repository.
+    1.2 “Authorized Users” means Licensee’s employees or contractors who
+         are bound by written agreement to terms no less protective of
+         Licensor’s rights than this Agreement.
+    1.3 “Derivative Work” has the meaning set forth in 17 U.S.C. § 101.
 
-m. **Sui Generis Database Rights** means rights other than copyright
-resulting from Directive 96/9/EC of the European Parliament and of the
-Council of 11 March 1996 on the legal protection of databases, as
-amended and/or succeeded, as well as other essentially equivalent
-rights anywhere in the world.
+2.  Grant of License
+    2.1 **Production Use.**  Subject to payment of all applicable fees,
+         Licensor grants Licensee a worldwide, non-exclusive,
+         non-transferable license to (a) use, reproduce, and modify the
+         Software, and (b) distribute the Software and Derivative Works
+         as part of Licensee’s products or services, including
+         software-as-a-service (SaaS).
+    2.2 **Sublicensing.**  Licensee may sublicense distribution rights
+         under Section 2.1(b) to its end customers solely in executable
+         form and only pursuant to terms at least as protective of
+         Licensor as this Agreement.
+    2.3 **Reservation of Rights.**  All rights not expressly granted are
+         reserved by Licensor.
 
-n. **You** means the individual or entity exercising the Licensed
-Rights under this Public License. **Your** has a corresponding
-meaning.
+3.  Fees & Payment
+    3.1 License fees are specified in the Order Form and are due within
+         thirty (30) days of invoice.  Late payments accrue interest at
+         1.5 % per month or the maximum allowed by law, whichever is
+         less.
 
-### Section 2 – Scope.
+4.  Support & Updates
+    4.1 Licensor will provide commercially reasonable support during the
+         term purchased.  Updates are provided at Licensor’s discretion
+         and are governed by this Agreement unless accompanied by a new
+         license.
 
-1. **License grant.**
+5.  Confidentiality
+    5.1 The Software and any non-public documentation are “Confidential
+         Information.”  Licensee will not disclose Confidential
+         Information except to Authorized Users and will protect it with
+         at least the same care used for its own secrets.
 
-   a. Subject to the terms and conditions of this Public License, the
-   Licensor hereby grants You a worldwide, royalty-free,
-   non-sublicensable, non-exclusive, irrevocable license to exercise
-   the Licensed Rights in the Licensed Material to:
+6.  Intellectual-Property Protection
+    6.1 Licensee shall not remove or alter any copyright, trademark, or
+         proprietary notices.
+    6.2 Licensee shall defend, indemnify, and hold harmless Licensor
+         from any claim arising out of Licensee’s use or distribution of
+         the Software.
 
-      i. reproduce and Share the Licensed Material, in whole or in
-      part, for NonCommercial purposes only; and
+7.  Warranty Disclaimer
+    7.1 THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND,
+         EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED
+         WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+         PURPOSE, AND NON-INFRINGEMENT.
 
-      ii. produce, reproduce, and Share Adapted Material for
-      NonCommercial purposes only.
+8.  Limitation of Liability
+    8.1 LICENSOR WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL,
+         INCIDENTAL, OR CONSEQUENTIAL DAMAGES, OR LOST PROFITS, ARISING
+         OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF ADVISED OF THE
+         POSSIBILITY OF SUCH DAMAGES.  LICENSOR’S TOTAL LIABILITY SHALL
+         NOT EXCEED THE FEES PAID BY LICENSEE IN THE TWELVE (12) MONTHS
+         PRECEDING THE CLAIM.
 
-   b. **Exceptions and Limitations.** For the avoidance of doubt, where
-   Exceptions and Limitations apply to Your use, this Public License
-   does not apply, and You do not need to comply with its terms and
-   conditions.
+9.  Term & Termination
+    9.1 This Agreement begins on the Effective Date and continues for
+         the term stated in the Order Form unless terminated earlier.
+    9.2 Either party may terminate for material breach after thirty (30)
+         days’ written notice if the breach is not cured.
+    9.3 Upon termination, all rights granted to Licensee cease, and
+         Licensee must destroy all copies of the Software in its
+         possession.
 
-   c. **Term.** The term of this Public License is specified in
-   Section 6(a).
+10. Governing Law & Dispute Resolution
+    10.1 This Agreement is governed by the laws of the Commonwealth of
+          Virginia, U.S.A., without regard to conflict-of-law rules.
+    10.2 Any dispute shall be resolved by binding arbitration in
+          Fairfax County, Virginia, under the Commercial Arbitration
+          Rules of the American Arbitration Association.
 
-   d. **Media and formats; technical modifications allowed.** The
-   Licensor authorizes You to exercise the Licensed Rights in all
-   media and formats whether now known or hereafter created, and to
-   make technical modifications necessary to do so. The Licensor
-   waives and/or agrees not to assert any right or authority to forbid You
-   from making technical modifications necessary to exercise the
-   Licensed Rights, including technical modifications necessary to
-   circumvent Effective Technological Measures. For purposes of this
-   Public License, simply making modifications authorized by this
-   Section 2(a)(4) never produces Adapted Material.
+11. Entire Agreement; Amendments
+    11.1 This Agreement, together with any Order Form, constitutes the
+          complete and exclusive understanding between the parties and
+          supersedes all prior proposals and agreements.  Any amendment
+          must be in writing and signed by both parties.
 
-   e. **Downstream recipients.**
-
-      i. **Offer from the Licensor – Licensed Material.** Every
-      recipient of the Licensed Material automatically receives an
-      offer from the Licensor to exercise the Licensed Rights under
-      the terms and conditions of this Public License.
-
-      ii. **Additional offer from the Licensor – Adapted Material.**
-      Every recipient of Adapted Material from You automatically
-      receives an offer from the Licensor to exercise the Licensed
-      Rights in the Adapted Material under the conditions of the
-      Adapter's License You apply.
-
-      iii. **No downstream restrictions.** You may not offer or
-      impose any additional or different terms or conditions on, or
-      apply any Effective Technological Measures to, the Licensed
-      Material if doing so restricts exercise of the Licensed Rights
-      by any recipient of the Licensed Material.
-
-   f. **No endorsement.** Nothing in this Public License constitutes or
-   may be construed as permission to assert or imply that You are, or
-   that Your use of the Licensed Material is, connected with, or
-   sponsored, endorsed, or granted official status by, the Licensor
-   or others designated to receive attribution as provided in
-   Section 3(a)(1)(A)(i).
-
-2. **Other rights.**
-
-   a. Moral rights, such as the right of integrity, are not licensed
-   under this Public License, nor are publicity, privacy, and/or other
-   similar personality rights; however, to the extent possible, the
-   Licensor waives and/or agrees not to assert any such rights held by
-   the Licensor to the limited extent necessary to allow You to
-   exercise the Licensed Rights, but not otherwise.
-
-   b. Patent and trademark rights are not licensed under this Public
-   License.
-
-   c. To the extent possible, the Licensor waives any right to collect
-   royalties from You for the exercise of the Licensed Rights, whether
-   directly or through a collecting society under any voluntary or
-   waivable statutory or compulsory licensing scheme. In all other
-   cases the Licensor expressly reserves any right to collect such
-   royalties, including when the Licensed Material is used other than
-   for NonCommercial purposes.
-
-*(The remainder of the license continues exactly in this format through
-Sections 3 – 8, followed by the termination paragraphs and the final
-CC notice.)*
-
-=======================================================================
-Copyright © 2025 EAName  
-Licensed under CC BY-NC-SA 4.0  
-<https://creativecommons.org/licenses/by-nc-sa/4.0/>
+© 2025 Parallel LLC.  All rights reserved.
