@@ -141,7 +141,16 @@ docker-compose run tests
 
 ## License
 
-CC BY-NC-SA 4.0
+This project is dual-licensed.
+
+• NON-COMMERCIAL USE → PolyForm Noncommercial License 1.0.0  
+  (see NONCOMMERCIAL_LICENSE)
+
+• COMMERCIAL USE → Parallel LLC Commercial License v1.0  
+  (see COMMERCIAL_LICENSE).  
+  To obtain a paid commercial license, e-mail <edwinsalguero@parallelLLC.com>.
+
+© 2025 Edwin Salguero
 
 ## Citation
 
